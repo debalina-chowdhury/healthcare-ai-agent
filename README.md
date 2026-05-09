@@ -1,3 +1,4 @@
+![CI](https://github.com/debalina-chowdhury/healthcare-ai-agent/actions/workflows/python-app.yml/badge.svg)
 # 🏥 Healthcare AI Agent
 
 An AI-powered clinical assistant built with Anthropic's Claude API and Streamlit. The agent takes natural language queries about patients and autonomously decides which tools to call — looking up records, checking insurance, and scheduling appointments.
